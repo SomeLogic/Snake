@@ -1,0 +1,9 @@
+﻿  Snake.cpp
+c:\users\robert szczepański\source\repos\snake\snake\snake.cpp(102): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+c:\users\robert szczepański\source\repos\snake\snake\snake.cpp(132): warning C4244: 'initializing': conversion from 'wint_t' to 'char', possible loss of data
+c:\users\robert szczepański\source\repos\snake\snake\snake.cpp(185): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+c:\users\robert szczepański\source\repos\snake\snake\snake.cpp(188): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+c:\users\robert szczepański\source\repos\snake\snake\snake.cpp(310): warning C4018: '<': signed/unsigned mismatch
+c:\users\robert szczepański\source\repos\snake\snake\snake.cpp(380): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\robert szczepański\source\repos\snake\snake\snake.cpp(403): warning C4018: '<': signed/unsigned mismatch
+  Snake.vcxproj -> C:\Users\Robert Szczepański\source\repos\Snake\Debug\Snake.exe
